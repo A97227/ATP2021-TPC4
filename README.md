@@ -36,3 +36,4 @@ def subtra(listafrac2):
         sub=sub2(sub, listafrac2[i])
     print(verfraçao(sub))
     
+    Professor: José Carlos Ramalho- http://www.di.uminho.pt/~jcr/
